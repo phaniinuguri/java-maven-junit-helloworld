@@ -107,7 +107,7 @@
     <repository>
         <id>java-maven-junit</id>
         <name>java-maven-junit</name>
-        <url>http://localhost:8081/repository/java-maven-junit/</url>
+        <url>http://54.255.204.44:8081/nexus/content/repositories/12354</url>
     </repository>
 </distributionManagement> 
 
