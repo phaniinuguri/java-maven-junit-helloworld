@@ -107,7 +107,7 @@
     <repository>
         <id>releases</id>
         <name>Release</name>
-        <url>http://54.255.204.44:8081/nexus/content/repositories/releases/</url>
+        <url>http://localhost:8081/nexus/content/repositories/releases/</url>
     </repository>
 </distributionManagement> 
 
