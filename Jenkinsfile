@@ -7,7 +7,7 @@ node {
       // ** NOTE: This 'M3' Maven tool must be configured
       // **       in the global configuration.           
       //mvnHome = tool 'M3'
-      mvnHome = 'maven'
+      mvnHome = '/usr/share/maven'
    }
    stage('Build') {
       // Run the maven build
